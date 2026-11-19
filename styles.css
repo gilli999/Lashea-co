@@ -81,3 +81,5 @@
 .detail-photo{position:static!important;width:100%;height:100%;object-fit:contain!important;object-position:center!important}
 @media(max-width:800px){.product-art{height:290px}.detail-art{height:420px}}
 @media(max-width:520px){.products{gap:12px}.product-art{height:230px}.detail-art{height:360px}.product-info{padding:12px}}
+
+.results-home{padding:42px 6%;background:#faf7f2;text-align:center}.results-home img{display:block;width:100%;max-width:1150px;height:auto;margin:auto;border-radius:16px;object-fit:contain}@media(max-width:520px){.results-home{padding:24px 4%}.results-home img{border-radius:10px}}
